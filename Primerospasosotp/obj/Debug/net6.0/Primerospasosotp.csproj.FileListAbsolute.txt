@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\Primerospasosotp\obj\Debug\net6.0\Primerospasosotp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Primerospasosotp\obj\Debug\net6.0\Primerospasosotp.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Primerospasosotp\obj\Debug\net6.0\Primerospasosotp.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Primerospasosotp\obj\Debug\net6.0\Primerospasosotp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Primerospasosotp\bin\Debug\net6.0\Primerospasosotp.exe
+C:\Users\Lucas\source\repos\Primerospasosotp\bin\Debug\net6.0\Primerospasosotp.deps.json
+C:\Users\Lucas\source\repos\Primerospasosotp\bin\Debug\net6.0\Primerospasosotp.runtimeconfig.json
+C:\Users\Lucas\source\repos\Primerospasosotp\bin\Debug\net6.0\Primerospasosotp.dll
+C:\Users\Lucas\source\repos\Primerospasosotp\bin\Debug\net6.0\Primerospasosotp.pdb
+C:\Users\Lucas\source\repos\Primerospasosotp\obj\Debug\net6.0\Primerospasosotp.dll
+C:\Users\Lucas\source\repos\Primerospasosotp\obj\Debug\net6.0\refint\Primerospasosotp.dll
+C:\Users\Lucas\source\repos\Primerospasosotp\obj\Debug\net6.0\Primerospasosotp.pdb
+C:\Users\Lucas\source\repos\Primerospasosotp\obj\Debug\net6.0\Primerospasosotp.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\Primerospasosotp\obj\Debug\net6.0\ref\Primerospasosotp.dll
